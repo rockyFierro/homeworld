@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rockyFierro/homeworld/static/css/main.073c9b0a.css",
-    "main.js": "/rockyFierro/homeworld/static/js/main.fe24405d.js",
-    "static/js/787.63835c74.chunk.js": "/rockyFierro/homeworld/static/js/787.63835c74.chunk.js",
-    "static/media/logo.svg": "/rockyFierro/homeworld/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/rockyFierro/homeworld/index.html",
-    "main.073c9b0a.css.map": "/rockyFierro/homeworld/static/css/main.073c9b0a.css.map",
-    "main.fe24405d.js.map": "/rockyFierro/homeworld/static/js/main.fe24405d.js.map",
-    "787.63835c74.chunk.js.map": "/rockyFierro/homeworld/static/js/787.63835c74.chunk.js.map"
+    "main.css": "/homeworld/static/css/main.073c9b0a.css",
+    "main.js": "/homeworld/static/js/main.40bf3daa.js",
+    "static/js/787.63835c74.chunk.js": "/homeworld/static/js/787.63835c74.chunk.js",
+    "static/media/logo.svg": "/homeworld/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/homeworld/index.html",
+    "main.073c9b0a.css.map": "/homeworld/static/css/main.073c9b0a.css.map",
+    "main.40bf3daa.js.map": "/homeworld/static/js/main.40bf3daa.js.map",
+    "787.63835c74.chunk.js.map": "/homeworld/static/js/787.63835c74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fe24405d.js"
+    "static/js/main.40bf3daa.js"
   ]
 }
